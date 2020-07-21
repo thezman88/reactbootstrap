@@ -1,12 +1,13 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Intro from './components/Intro/index';
+import Navbar from './components/Navbar/Index';
+import Info from './components/Info/Index';
 
 const App = ()=>{
     return(
         <div>   
+            <Info />
             <Navbar />
-            <Intro />
+
         </div>
     )
 }
