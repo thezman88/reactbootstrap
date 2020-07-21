@@ -9,7 +9,7 @@ function Info() {
               <p className='hey'>Zachary Cohen</p>
               <p className='aboutMe'>I am a developer, who is passionate about
                  community and technology. Let's start creating together.</p>
-                 <hr></hr>
+                 <hr />
                 <a href='#'><i className="github fab fa-github pr-2"></i></a> 
                  <a href='#'><i className="linkedin fab fa-linkedin-in pr-2"></i></a>
 
