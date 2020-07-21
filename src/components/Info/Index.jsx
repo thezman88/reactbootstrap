@@ -7,6 +7,8 @@ function Info() {
             <div className='row '>
               <div className='col text-center'>
               <p className='hey'>Zachary Cohen</p>
+              <p className='hey'>a new Cohen</p>
+
               <p className='aboutMe'>I am a developer, who is passionate about
                  community and technology. Let's start creating together.</p>
                  <hr />
