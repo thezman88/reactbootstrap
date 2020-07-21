@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactbootstrap/static/css/main.be0ef2d0.chunk.css",
+    "main.js": "/reactbootstrap/static/js/main.ca64da86.chunk.js",
+    "main.js.map": "/reactbootstrap/static/js/main.ca64da86.chunk.js.map",
+    "runtime-main.js": "/reactbootstrap/static/js/runtime-main.f9b941d2.js",
+    "runtime-main.js.map": "/reactbootstrap/static/js/runtime-main.f9b941d2.js.map",
+    "static/js/2.5e6e90ba.chunk.js": "/reactbootstrap/static/js/2.5e6e90ba.chunk.js",
+    "static/js/2.5e6e90ba.chunk.js.map": "/reactbootstrap/static/js/2.5e6e90ba.chunk.js.map",
+    "index.html": "/reactbootstrap/index.html",
+    "precache-manifest.ba621edbb93b877165e1c63fc33f4b97.js": "/reactbootstrap/precache-manifest.ba621edbb93b877165e1c63fc33f4b97.js",
+    "service-worker.js": "/reactbootstrap/service-worker.js",
+    "static/css/main.be0ef2d0.chunk.css.map": "/reactbootstrap/static/css/main.be0ef2d0.chunk.css.map",
+    "static/js/2.5e6e90ba.chunk.js.LICENSE.txt": "/reactbootstrap/static/js/2.5e6e90ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b941d2.js",
+    "static/js/2.5e6e90ba.chunk.js",
+    "static/css/main.be0ef2d0.chunk.css",
+    "static/js/main.ca64da86.chunk.js"
+  ]
+}
