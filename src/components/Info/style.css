@@ -24,10 +24,20 @@ hr{
 .hey{
     margin-top: 200px;
     font-size: 90px;
-    color: rgba(255, 255, 255, 0.911)
+    color: rgba(255, 255, 255, 0.979);
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 .aboutMe{
     font-size: 20px;
     color: white;
+}
+.linkedin{
+    color: white;
+    font-size: 30px;
+}
+
+.github{
+    color: white;
+    font-size: 35px;
 }
